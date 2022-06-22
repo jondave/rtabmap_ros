@@ -1,3 +1,8 @@
+# My Notes
+If error when using two cameras. Need to git clone rtab_ros package into catkin workspace and make with this variable catkin_make -DRTABMAP_SYNC_MULTI_RGBD=ON introlab/rtabmap_ros#459 introlab/rtabmap_ros#464 (may need to remove rtabmap_ros from ROS install directory)
+
+=======
+
 rtabmap_ros [![Build Status](https://github.com/introlab/rtabmap_ros/actions/workflows/ros1.yml/badge.svg)](https://github.com/introlab/rtabmap_ros/actions/workflows/ros1.yml) [![docker](https://github.com/introlab/rtabmap_ros/actions/workflows/docker.yml/badge.svg)](https://github.com/introlab/rtabmap_ros/actions/workflows/docker.yml)
 =======
 
