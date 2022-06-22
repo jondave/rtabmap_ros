@@ -4,7 +4,6 @@ Need to git clone rtab_ros package into catkin workspace and make with this vari
 https://github.com/introlab/rtabmap_ros/issues/459
 https://github.com/introlab/rtabmap_ros/issues/464
 (may need to remove rtabmap_ros from ROS install directory)
-=======
 
 rtabmap_ros [![Build Status](https://github.com/introlab/rtabmap_ros/actions/workflows/ros1.yml/badge.svg)](https://github.com/introlab/rtabmap_ros/actions/workflows/ros1.yml) [![docker](https://github.com/introlab/rtabmap_ros/actions/workflows/docker.yml/badge.svg)](https://github.com/introlab/rtabmap_ros/actions/workflows/docker.yml)
 =======
