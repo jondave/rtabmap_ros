@@ -1,4 +1,6 @@
 # My Notes
+Needs ```sudo apt install ros-melodic-image-pipeline```
+
 If error when using two cameras.
 Need to git clone rtab_ros package into catkin workspace and make with this variable ```catkin_make -DRTABMAP_SYNC_MULTI_RGBD=ON```
 https://github.com/introlab/rtabmap_ros/issues/459
